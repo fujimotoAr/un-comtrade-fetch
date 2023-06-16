@@ -1,0 +1,48 @@
+Features,Description
+typeCode,x
+freqCode,Data collection technique (monthly or yearly)
+refPeriodId,"Date, month, and year of export"
+refYear,Export year
+refMonth,Export moth
+period,Month and year of export
+reporterCode,Exporting country code
+reporterISO,ISO code of the exporting country
+reporterDesc,Name of the exporting country
+flowCode,Code import or export
+flowDesc,Description whether import or export
+partnerCode,Import country code
+partnerISO,ISO code of the importing ccountry
+partnerDesc,Name of the importng country
+partner2Code,Second partner country code
+partner2ISO,Second partner country ISO code
+partner2Desc,Consignment country
+classificationCode,x
+classificationSearchCode,x
+isOriginalClassification,x
+cmdCode,Exported commodity code
+cmdDesc,Name of the commodity being exported
+aggrLevel,x
+isLeaf,x
+customsCode,x
+customsDesc,x
+mosCode,x
+motCode,Code of transportation used when commodity enter or leave the economic territory of a country
+motDesc,Transportation used when commodity enter or leave the economic territory of a country
+qtyUnitCode,Standard code of quantity units
+qtyUnitAbbr,Standard quantity units
+qty,Weight
+isQtyEstimated,x
+altQtyUnitCode,x
+altQtyUnitAbbr,x
+altQty,x
+isAltQtyEstimated,x
+netWgt,The net weight of the commodity shipped by excluding the weight of the container itself
+isNetWgtEstimated,x
+grossWgt,Net weight + the weight of the shipping or cargo container)
+isGrossWgtEstimated,x
+cifvalue,"CIF (Cost, Insurance and Freight) value of imported commodity"
+fobvalue,FOB (Free On Board) value imported commodity
+primaryValue,x
+legacyEstimationFlag,x
+isReported,x
+isAggregate,Information on whether the entry data is an aggregate result of more than one data (true or false)
